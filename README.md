@@ -1,4 +1,3 @@
-# Workshop
 # [Project Title]
 > A brief, catchy tagline for the project.
 
